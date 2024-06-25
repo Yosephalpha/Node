@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Venkat",
+      "age": 30
+    },
+    {
+      "id": "2",
+      "firstName": "Amarnath",
+      "age": 20
+    },
+    {
+      "id": "3",
+      "firstName": "Piyush",
+      "age": 35
+    },
+    {
+      "id": "4",
+      "firstName": "Gokul",
+      "age": 38
+    },
+    {
+      "id": "5",
+      "firstName": "Hasansab",
+      "age": 40
+    },
+    {
+      "id": "7b02",
+      "firstName": "Jack",
+      "age": 30
+    },
+    {
+      "id": "3c6b",
+      "firstName": "John",
+      "age": 20
+    },
+    {
+      "id": "4356",
+      "newUser": {
+        "id": "6",
+        "firstName": "John",
+        "age": 20
+      }
+    },
+    {
+      "id": "1d76",
+      "firstName": "John",
+      "age": 20
+    }
+  ]
+}

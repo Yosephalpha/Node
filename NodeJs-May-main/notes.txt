@@ -1,0 +1,41 @@
+github repo => https://github.com/SangeethaShanmugm
+
+extensions
+
+>> Prettier - Code formatter
+>> Spell check
+>> vscode-icons
+>> gitlens
+>> githistory
+>> Tabnine
+>> auto rename tag
+>> auto close tag
+
+
+Github and vs connection
+---------------------------
+
+https://git-scm.com/downloads => download gitbash 
+
+Set your username: git config --global user.name "FIRST_NAME LAST_NAME"
+Set your email address: git config --global user.email "MY_NAME@example.com"
+
+CRUD methods
+---------------
+C  -   Create => add/insert => post
+R  -   Read   =>  getting  =>  get
+U  -   Update =>  Update/edit => put
+D  -   Delete  =>  delete   => delete 
+
+
+
+Mongodb
+-----------
+
+show dbs => list all dbs
+use dbName => switch/ create a db
+db => current db
+show collections => list collections in db
+
+
+
